@@ -1,6 +1,4 @@
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-
-
 local function task()
 local args = {
     [1] = "Animations",
@@ -1264,7 +1262,7 @@ local args = {
 game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
 end
 while true do
-    for i = 1, 9999 do
+    for i = 1, 100 do
         task()
         wait()
     end
