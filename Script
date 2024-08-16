@@ -91,7 +91,23 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
 end
 
 while true do
