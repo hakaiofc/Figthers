@@ -1265,7 +1265,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack
 end
 
 while true do
-    for i = 1, 999 do
+    for i = 1, 10 do
         task()
         wait()
     end
