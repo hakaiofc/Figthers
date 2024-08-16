@@ -127,42 +127,6 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-local args = {
-    [1] = "Animations",
-    [2] = "PushUp"
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-local args = {
-    [1] = "Animations",
-    [2] = "PushUp"
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-local args = {
-    [1] = "Animations",
-    [2] = "PushUp"
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-local args = {
-    [1] = "Animations",
-    [2] = "PushUp"
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-local args = {
-    [1] = "Animations",
-    [2] = "PushUp"
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
-local args = {
-    [1] = "Animations",
-    [2] = "PushUp"
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
 game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack(args))
 local args = {
     [1] = "Animations",
@@ -237,7 +201,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("andreymax"):FireServer(unpack
 end
 
 while true do
-    for i = 1, 999999999999 do
+    for i = 1, 99999999999 do
         task()
         wait()
     end
